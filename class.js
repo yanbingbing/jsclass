@@ -1,7 +1,6 @@
 /**
  * Class
  *
- * @author github.com/yanbingbing/class.js
  * Thanks to: https://github.com/aralejs/class/blob/master/src/class.js
  */
 
